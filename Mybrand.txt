@@ -1,0 +1,13 @@
+AI Usage Report
+AI Tools Used
+GitHub Copilot: Generated component boilerplate and Chart.js configurations.
+v0.dev: Created UI for cards and table with shadcn/ui.
+Claude: Planned dashboard architecture and debugged table sorting logic.
+Sample Prompts
+1. "Generate a responsive React dashboard card with shadcn/ui and Tailwind CSS."
+2. "Create a Chart.js line chart for user growth with neutral colors."
+3. "Implement a dark/light mode toggle in Next.js with Tailwind CSS."
+AI vs Manual Work Split
+AI-generated was around 60 percentage which includes components, initial styles, chart configs.
+Manual coding was around  40% which includes logic for sorting/filtering, UI customization.
+Customization: Adapted AI-generated code to match neutral color scheme and added animations.
